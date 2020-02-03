@@ -1,0 +1,22 @@
+{
+  "npmScope": "angular-line-login",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": {
+      "dependencies": "*",
+      "devDependencies": "*"
+    },
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "angular-line-logiin": {
+      "tags": []
+    },
+    "angular-line-logiin-e2e": {
+      "tags": [],
+      "implicitDependencies": ["angular-line-logiin"]
+    }
+  }
+}
