@@ -16,7 +16,15 @@
     },
     "angular-line-logiin-e2e": {
       "tags": [],
-      "implicitDependencies": ["angular-line-logiin"]
+      "implicitDependencies": [
+        "angular-line-logiin"
+      ]
+    },
+    "y-api": {
+      "tags": []
+    },
+    "api": {
+      "tags": []
     }
   }
 }
