@@ -36,8 +36,8 @@
     "@angular/platform-browser": "^8.2.0",
     "@angular/platform-browser-dynamic": "^8.2.0",
     "@angular/router": "^8.2.0",
-    "@nrwl/angular": "8.12.1",
-    "@nrwl/express": "8.12.1",
+    "@nrwl/angular": "15.4.2",
+    "@nrwl/express": "15.4.2",
     "body-parser": "^1.19.0",
     "core-js": "^2.5.4",
     "cors": "^2.8.5",
@@ -46,11 +46,11 @@
     "zone.js": "^0.9.1"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.803.23",
+    "@angular-devkit/build-angular": "^15.0.4",
     "@angular/cli": "8.3.14",
     "@angular/compiler-cli": "^8.2.0",
     "@angular/language-service": "^8.2.0",
-    "@nrwl/cypress": "8.12.1",
+    "@nrwl/cypress": "15.4.2",
     "@nrwl/jest": "8.12.1",
     "@nrwl/workspace": "8.12.1",
     "@types/jest": "24.0.9",
@@ -66,6 +66,6 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.11.0",
     "typescript": "~3.5.3",
-    "@nrwl/node": "8.12.1"
+    "@nrwl/node": "15.4.2"
   }
 }
